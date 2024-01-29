@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Gtrigueiro Tecnologia
 
-- 💬 Learning **JavaScript, SQL, React.JS, Node.JS**
+- 💬 Learning **JavaScript, SQL, Vue.JS, Php **
 
 
 <!--
